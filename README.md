@@ -39,3 +39,8 @@ Create Exercises and workouts
 
 Performances - 
 Go through exercises and mark outcomes
+
+VS and C# notes:
+Mobile App (Xamarin Forms) type project in C:\Users\ddp\Documents\Personal Software\JohnsWorkouts
+Flyout
+Develop for Android and iOS.
